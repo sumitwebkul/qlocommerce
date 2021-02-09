@@ -1,0 +1,14 @@
+{
+    "name": "sumitwebkul/qloapps",
+    "description": "QloApps also known as Qlo is an Open-source and Free hotel reservation system and booking engine.",
+    "type": "project",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Webkul",
+            "email": "support@qloapps.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
